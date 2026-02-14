@@ -424,7 +424,7 @@ Payments, market data, and finance tools.
 - PayPal (⭐) — https://github.com/paypal/agent-toolkit
 - Stripe (⭐) — https://github.com/stripe/agent-toolkit
 - LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp
-- x402engine-mcp (50+ pay-per-call APIs for AI agents via HTTP 402 micropayments) — https://github.com/agentc22/x402engine-mcp
+- x402engine-mcp (38 pay-per-call APIs for AI agents — 15 LLMs (GPT-4o, Claude, Gemini, Grok, DeepSeek, Llama, Mistral, Qwen, Perplexity), image gen, code execution, TTS, transcription, crypto data, wallet analytics, web scraping, IPFS via HTTP 402 micropayments) — https://github.com/agentc22/x402engine-mcp
 
 ---
 
